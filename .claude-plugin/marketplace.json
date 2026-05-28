@@ -1,0 +1,14 @@
+{
+  "name": "romasse-plugins",
+  "owner": {
+    "name": "Роман Субота",
+    "email": "romasse@users.noreply.github.com"
+  },
+  "plugins": [
+    {
+      "name": "olx-api-assistant",
+      "source": "./olx-api-assistant",
+      "description": "Спеціалізований асистент з інтеграції OLX Partner API v2.0 для нерухомості України"
+    }
+  ]
+}
