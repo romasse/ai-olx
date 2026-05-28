@@ -1,0 +1,8 @@
+{
+  "name": "olx-api-assistant",
+  "version": "1.0.0",
+  "description": "Спеціалізований асистент з інтеграції OLX Partner API v2.0 для нерухомості України",
+  "author": {
+    "name": "Роман Субота"
+  }
+}
